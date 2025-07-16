@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QuoteOfTheDay</string>
+    <string name="quote_placeholder">Your quote will appear here...</string>
+    <string name="btn_new_quote">Inspire Me</string>
+    <string name="btn_share">Share with Others</string>
+    <string name="btn_save">Add to Favorites</string>
+    <string name="btn_favorites">View My Favorites</string>
+</resources>
